@@ -3,7 +3,9 @@
 Data analysis and interactive Excel dashboard project for **Vrinda Store’s annual sales report (2022)**.  
 Includes data cleaning, processing, visualization, and key business insights using **Microsoft Excel**.
 
-![Outcome](https://github.com/user-attachments/assets/39e369c2-187f-40a8-8a9c-ae40cb8fb5e1)
+## 🖼️ **Dashboard Preview**
+
+![Dashboard Screenshot](https://github.com/user-attachments/assets/39e369c2-187f-40a8-8a9c-ae40cb8fb5e1)
 
 ---
 
@@ -97,9 +99,6 @@ Visualizes purchasing behavior by age group and gender.
 
 ---
 
-## 🖼️ **Dashboard Preview**
-
-![Dashboard Screenshot](https://github.com/user-attachments/assets/39e369c2-187f-40a8-8a9c-ae40cb8fb5e1)
 
 ---
 
