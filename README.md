@@ -107,8 +107,8 @@ Visualizes purchasing behavior by age group and gender.
 1. Clone or download the repository:
    ```bash
    git clone https://github.com/Chavansatyam1/Vrinda-Store-Excel-Dashboard-Project.git
-
-   ## 📧 **Contact**
+---
+## 📧 **Contact**
 
 👨‍💻 **Satyam Chavan**  
 🎓 BE Graduate '25 | Aspiring Data Analyst  
